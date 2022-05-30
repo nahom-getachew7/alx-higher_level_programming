@@ -35,7 +35,7 @@ int check_cycle(listint_t *list)
 
 				list = list->next;
 			}
-	i		return (1);
+			return (1);
 		}
 	}
 
